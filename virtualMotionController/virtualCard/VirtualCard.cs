@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Threading;
-using zzz.framework.baseCard;
+using zzz.driver.baseCard;
 
 namespace zzz.driver.virtualCard
 {

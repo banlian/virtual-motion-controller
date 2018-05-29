@@ -1,5 +1,5 @@
-﻿using zzz.driver.gtsCard.Googol;
-using zzz.framework.baseCard;
+﻿using zzz.driver.baseCard;
+using zzz.driver.gtsCard.Googol;
 
 namespace zzz.driver.gtsCard
 {

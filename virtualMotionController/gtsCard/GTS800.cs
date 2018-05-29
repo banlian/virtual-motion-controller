@@ -1,4 +1,4 @@
-﻿using zzz.framework.baseCard;
+﻿using zzz.driver.baseCard;
 
 namespace zzz.driver.gtsCard
 {

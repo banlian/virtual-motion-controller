@@ -1,6 +1,6 @@
 ﻿using System;
+using zzz.driver.baseCard;
 using zzz.driver.gtsCard.Googol;
-using zzz.framework.baseCard;
 
 namespace zzz.driver.gtsCard
 {
